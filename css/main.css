@@ -1,0 +1,14 @@
+body {
+  background: white;
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.display-flex {
+  display: flex;
+}
